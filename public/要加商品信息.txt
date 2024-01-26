@@ -1,0 +1,15 @@
+1：addproduct1.avif  
+宝聚源五香牛肉200g熟食酱香牛肉卤味零食
+$29
+
+2:addproduct2.avif
+千丝蛋黄酥雪媚娘早餐面包休闲食品零食
+$6
+
+3:addproduct3.avif
+五香卤蛋开袋即食晚上解饿解馋零食小吃
+$12
+
+4:addproduct4.avif
+低脂鸡胸肉即食健身代餐饱腹解馋
+$21
