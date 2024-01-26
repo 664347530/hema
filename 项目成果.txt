@@ -1,1 +1,1 @@
-打开外网输入hema-7.vercel.app
+打开外网输入https://hema-seven.vercel.app/#/
